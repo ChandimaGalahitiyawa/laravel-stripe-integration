@@ -14,8 +14,10 @@ This tutorial explains how to integrate the Stripe payment gateway into a Larave
 
 Use Composer to install the Stripe PHP SDK. Run the following command in your project directory:
 
-```bash
+
 composer require stripe/stripe-php
+
+bash
 2. Obtain API Keys
 Log into your Stripe dashboard and navigate to the "Developers" section to obtain your API keys.
 
